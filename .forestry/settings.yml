@@ -11,6 +11,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - 2-column-media-element
 - type: directory
   path: ''
   label: Pages
